@@ -1,0 +1,60 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Batman.master.cs" Inherits="Library_Management_System.PL.Batman" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+      
+    <link href="StyleSheet1.css" rel="stylesheet" type="text/css" />
+    <style type="text/css">
+        .style3
+        {
+            font-family: "Century Gothic";
+            font-weight: normal;
+            color: #0066CC;
+            font-size: 40pt;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div style="font-weight: 700">
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        <div>
+            <h1 align=center class="style3">
+            <a class=HyperLinkStyle href=Default.aspx style="font-family:Century Gothic;
+                 color: #FF3300;">
+              Hogwarts Library </a>
+                </h1>
+            </div>
+            <div align=center>
+                <h2 style="color:#003300;">A place to learn, A chance to grow!</h2>
+            </div>
+            <div align=right style="position:absolute; right:300px">
+                <a class=HyperLinkStyle href="Search.aspx" style="font-family: Century Gothic; 
+                font-size: 22px; 
+                font-weight: bold; 
+                color: #0066FF;">Looking For Books?<a/>
+            </div>
+        </asp:ContentPlaceHolder>
+    </div>
+    
+    <div>
+
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server">
+            
+        </asp:ContentPlaceHolder>
+
+    </div>
+
+
+    <%--<asp:ContentPlaceHolder ID="ContentPlaceHolder3" runat="server">
+    <center>
+    <p style="font-family:Century Gothic; font-size:20px; font-weight: bold;  color: #FF33CC;">Impossible itself says I'm Possible</p>
+    </center>
+    </asp:ContentPlaceHolder>--%>
+
+
+    </form>
+</body>
+</html>

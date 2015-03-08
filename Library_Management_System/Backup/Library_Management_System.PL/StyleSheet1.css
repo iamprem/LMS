@@ -1,0 +1,121 @@
+﻿body
+{
+    background-position: right top;
+    background-image: url('Images/login_Bg.png');
+    height: 262px;
+}
+h2
+{
+    font-family: Century Gothic;
+    font-size: 25px;
+    font-weight: bold;
+    color: #00CC99;
+}
+
+.LabelStyle
+{
+    font-family: Century Gothic;
+    font-size: 18px;
+    font-weight: bold;
+    color: #333333;
+}
+
+.LabelStyle1
+{
+    font-family: Century Gothic;
+    font-size: 16px;
+    font-weight: bold;
+    color: #3366CC;
+}
+.ButtonStyle
+{
+    font-family: Century Gothic;
+    font-weight: bold;
+    font-size: 16px;
+    color: #FFFFFF;
+    background-color:#3399FF;
+    border-style:none;
+}
+
+.ButtonStyleAdminPage
+{
+    font-family: Century Gothic;
+    font-size: 20px;
+    color: #000000;
+    background-color: #66CCFF;
+    border-style: none;
+    width: 300px;
+    height: 50px;
+    font-weight: bold;
+}
+.TextBoxStyle
+{
+    border-bottom :#d9d9d9 1px solid;
+    border-left : #d9d9d9 1px solid;
+    padding-bottom : 0px;
+    line-height : 30px;
+    margin : 0px;
+    padding-left : 8px;
+    padding-right : 8px;
+    display : inline-block;
+    background : #fff;
+    height : 30px;
+    width:150px;
+    color : #404040;
+    font-size : 15px;
+    font-family:Arial;
+    border-top : #c0c0c0 1px solid;
+    border-right : #d9d9d9 1px solid;
+    padding-top : 0px;
+    -moz-border-radius : 1px;
+    -webkit-border-radius : 1px;
+    -moz-box-sizing : border-boxl;
+    -moz-appearance : none;
+    -webkit-appearance : none;
+    -webkit-box-sizing : border-box;
+}
+.styled-select
+{
+    border-bottom :#d9d9d9 1px solid;
+    border-left : #d9d9d9 1px solid;
+    border-top : #c0c0c0 1px solid;
+    border-right : #d9d9d9 1px solid;
+    width: 300px;
+    height: 30px;
+    color : #404040;
+    background : #fff;
+    overflow: hidden;
+    border: 1px solid #ccc;
+    font-family:Arial;
+    font-size: 15px;
+    -moz-border-radius : 1px;
+    -webkit-border-radius : 1px;
+    -moz-box-sizing : border-boxl;
+    -moz-appearance : none;
+    -webkit-appearance : none;
+    -webkit-box-sizing : border-box;
+}
+
+.styled-select select 
+{
+   background: #fff;
+   width: 300px;
+   padding: 5px;
+   font-family:Century Gothic;
+   font-size: 16px;
+   font-weight:bold;
+   line-height: 1;
+   border: 0;
+   border-radius: 0;
+   height: 34px;
+   -webkit-appearance: none;
+}
+.HyperLinkStyle
+{
+    text-decoration: none;
+    
+}
+.HyperLinkStyle a:hover
+{
+      text-decoration: none;
+}

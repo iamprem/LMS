@@ -1,0 +1,28 @@
+D:\mfrp\FrontEnd\Library_Management_System\LIBRARY_MANAGEMENT_SYSTEM.DAL\bin\Debug\LIBRARY_MANAGEMENT_SYSTEM.DAL.dll
+D:\mfrp\FrontEnd\Library_Management_System\LIBRARY_MANAGEMENT_SYSTEM.DAL\bin\Debug\LIBRARY_MANAGEMENT_SYSTEM.DAL.pdb
+D:\mfrp\FrontEnd\Library_Management_System\LIBRARY_MANAGEMENT_SYSTEM.DAL\bin\Debug\LIBRARY_MANAGEMENT_SYSTEM.EL.dll
+D:\mfrp\FrontEnd\Library_Management_System\LIBRARY_MANAGEMENT_SYSTEM.DAL\bin\Debug\LIBRARY_MANAGEMENT_SYSTEM.EL.pdb
+D:\mfrp\FrontEnd\Library_Management_System\LIBRARY_MANAGEMENT_SYSTEM.DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\mfrp\FrontEnd\Library_Management_System\LIBRARY_MANAGEMENT_SYSTEM.DAL\obj\Debug\LIBRARY_MANAGEMENT_SYSTEM.DAL.dll
+D:\mfrp\FrontEnd\Library_Management_System\LIBRARY_MANAGEMENT_SYSTEM.DAL\obj\Debug\LIBRARY_MANAGEMENT_SYSTEM.DAL.pdb
+C:\Users\Rajesh\Desktop\New folder\Library_Management_System\Library_Management_System\LIBRARY_MANAGEMENT_SYSTEM.DAL\bin\Debug\LIBRARY_MANAGEMENT_SYSTEM.DAL.dll
+C:\Users\Rajesh\Desktop\New folder\Library_Management_System\Library_Management_System\LIBRARY_MANAGEMENT_SYSTEM.DAL\bin\Debug\LIBRARY_MANAGEMENT_SYSTEM.DAL.pdb
+C:\Users\Rajesh\Desktop\New folder\Library_Management_System\Library_Management_System\LIBRARY_MANAGEMENT_SYSTEM.DAL\bin\Debug\LIBRARY_MANAGEMENT_SYSTEM.EL.dll
+C:\Users\Rajesh\Desktop\New folder\Library_Management_System\Library_Management_System\LIBRARY_MANAGEMENT_SYSTEM.DAL\bin\Debug\LIBRARY_MANAGEMENT_SYSTEM.EL.pdb
+C:\Users\Rajesh\Desktop\New folder\Library_Management_System\Library_Management_System\LIBRARY_MANAGEMENT_SYSTEM.DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Rajesh\Desktop\New folder\Library_Management_System\Library_Management_System\LIBRARY_MANAGEMENT_SYSTEM.DAL\obj\Debug\LIBRARY_MANAGEMENT_SYSTEM.DAL.dll
+C:\Users\Rajesh\Desktop\New folder\Library_Management_System\Library_Management_System\LIBRARY_MANAGEMENT_SYSTEM.DAL\obj\Debug\LIBRARY_MANAGEMENT_SYSTEM.DAL.pdb
+C:\Users\393682\Desktop\Library_Management_System\LIBRARY_MANAGEMENT_SYSTEM.DAL\bin\Debug\LIBRARY_MANAGEMENT_SYSTEM.DAL.dll
+C:\Users\393682\Desktop\Library_Management_System\LIBRARY_MANAGEMENT_SYSTEM.DAL\bin\Debug\LIBRARY_MANAGEMENT_SYSTEM.DAL.pdb
+C:\Users\393682\Desktop\Library_Management_System\LIBRARY_MANAGEMENT_SYSTEM.DAL\bin\Debug\LIBRARY_MANAGEMENT_SYSTEM.EL.dll
+C:\Users\393682\Desktop\Library_Management_System\LIBRARY_MANAGEMENT_SYSTEM.DAL\bin\Debug\LIBRARY_MANAGEMENT_SYSTEM.EL.pdb
+C:\Users\393682\Desktop\Library_Management_System\LIBRARY_MANAGEMENT_SYSTEM.DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\393682\Desktop\Library_Management_System\LIBRARY_MANAGEMENT_SYSTEM.DAL\obj\Debug\LIBRARY_MANAGEMENT_SYSTEM.DAL.dll
+C:\Users\393682\Desktop\Library_Management_System\LIBRARY_MANAGEMENT_SYSTEM.DAL\obj\Debug\LIBRARY_MANAGEMENT_SYSTEM.DAL.pdb
+C:\Users\Prem\Desktop\LMS\Library_Management_System\LIBRARY_MANAGEMENT_SYSTEM.DAL\bin\Debug\LIBRARY_MANAGEMENT_SYSTEM.DAL.dll
+C:\Users\Prem\Desktop\LMS\Library_Management_System\LIBRARY_MANAGEMENT_SYSTEM.DAL\bin\Debug\LIBRARY_MANAGEMENT_SYSTEM.DAL.pdb
+C:\Users\Prem\Desktop\LMS\Library_Management_System\LIBRARY_MANAGEMENT_SYSTEM.DAL\bin\Debug\LIBRARY_MANAGEMENT_SYSTEM.EL.dll
+C:\Users\Prem\Desktop\LMS\Library_Management_System\LIBRARY_MANAGEMENT_SYSTEM.DAL\bin\Debug\LIBRARY_MANAGEMENT_SYSTEM.EL.pdb
+C:\Users\Prem\Desktop\LMS\Library_Management_System\LIBRARY_MANAGEMENT_SYSTEM.DAL\obj\Debug\Library_Management_System.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Prem\Desktop\LMS\Library_Management_System\LIBRARY_MANAGEMENT_SYSTEM.DAL\obj\Debug\LIBRARY_MANAGEMENT_SYSTEM.DAL.dll
+C:\Users\Prem\Desktop\LMS\Library_Management_System\LIBRARY_MANAGEMENT_SYSTEM.DAL\obj\Debug\LIBRARY_MANAGEMENT_SYSTEM.DAL.pdb

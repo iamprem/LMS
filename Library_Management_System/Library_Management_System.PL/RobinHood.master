@@ -1,0 +1,40 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/Batman.Master" AutoEventWireup="true" CodeBehind="RobinHood.master.cs" Inherits="Library_Management_System.PL.RobinHood" %>
+<asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder2" runat="server">
+
+    <center><h2><asp:Label ID="lblWelcomeAdmin" runat="server" Text="Hey Admin" ></asp:Label></h2></center>
+
+  <div align="center" style="height: 36px; background-color:#000000;" >
+
+
+    <asp:Button ID="btnBookTransaction" runat="server" 
+         style="color: #66CCFF; background-color: #000000; font-weight: bold;"
+        Text="Book Transaction" Height="35px" Width="200px"  
+            CssClass="ButtonStyle" onclick="btnBookTransaction_Click"/>
+    <asp:Button ID="btnManageMembers" runat="server" 
+        style="color: #66CCFF; background-color: #000000; font-weight: bold;" Text="Manage Members" 
+        Height="35px" Width="200px" CssClass="ButtonStyle" onclick="btnManageMembers_Click" 
+            />
+    <asp:Button ID="btnManageSuppliers" runat="server" 
+        style="color: #66CCFF; background-color: #000000; font-weight: bold;" Text="Manage Suppliers" 
+        Height="35px" Width="200px" CssClass="ButtonStyle" 
+          onclick="btnManageSuppliers_Click"/>
+    <asp:Button ID="btnManageBooks" runat="server" 
+        style="color: #66CCFF; background-color: #000000; font-weight: bold;" Text="Manage Books" 
+        Height="35px" Width="200px" CssClass="ButtonStyle" 
+          onclick="btnManageBooks_Click"/>
+    <asp:Button ID="btnSignOut" runat="server"
+        style="color: #66CCFF; background-color: #000000; font-weight: bold;" Text="Sign Out" 
+        Height="35px" Width="200px" CssClass="ButtonStyle" 
+          onclick="btnSignOut_Click" />
+        </div>
+
+
+        <br />
+  <br />
+  <br />
+  <br />
+  
+    <asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server">
+            
+        </asp:ContentPlaceHolder>
+</asp:Content>
